@@ -1,0 +1,29 @@
+{
+  "name": "vispar-app-client",
+  "version": "1.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@alireza-ab/vue-persian-datepicker": "^2.3.0",
+    "@amcharts/amcharts4": "^4.10.34",
+    "@amcharts/amcharts4-fonts": "^4.0.1",
+    "@amcharts/amcharts4-geodata": "^4.1.26",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/pwa": "^3.3.5",
+    "@nuxtjs/toast": "^3.3.1",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7",
+    "nuxt-svg-loader": "^1.2.0",
+    "vue-easy-pie-chart": "^1.0.3",
+    "vue2-perfect-scrollbar": "^1.5.5",
+    "vuetify": "^2.5.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.1"
+  }
+}
